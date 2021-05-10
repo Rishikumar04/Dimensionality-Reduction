@@ -4,4 +4,4 @@ Comparing different dimensionality reduction techniques by predicting data using
 Dimensionality Reduction Techniques used are:
 * Principal Component Analysis
 * Linear Discriminant Analysis
-* Kernel SVM.
+* Kernel PCA.
